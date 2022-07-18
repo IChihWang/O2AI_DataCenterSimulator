@@ -1,0 +1,21 @@
+mkdir Experiment/
+mkdir Experiment/0.\ UD_First-Fit/
+mkdir Experiment/0.\ UD_First-Fit/LargeToSmall/
+mkdir Experiment/1.\ UD_Best-Fit/
+mkdir Experiment/1.\ UD_Best-Fit/LargeToSmall/
+mkdir Experiment/2.\ UD_First-Fit_Order/
+mkdir Experiment/2.\ UD_First-Fit_Order/LargeToSmall/
+mkdir Experiment/3.\ UD_Best-Fit_Order/
+mkdir Experiment/3.\ UD_Best-Fit_Order/LargeToSmall/
+mkdir Experiment/4.\ MW_SW_FirstFit/
+mkdir Experiment/4.\ MW_SW_FirstFit/LargeToSmall/
+mkdir Experiment/5.\ MW_SW_BestFit/
+mkdir Experiment/5.\ MW_SW_BestFit/LargeToSmall/
+mkdir Experiment/5-1.\ OneQ_SW_FirstFit/
+mkdir Experiment/5-2.\ HT_SW_FirstFit/
+mkdir Experiment/5-3.\ ThreeQ_SW_FirstFit/
+mkdir Experiment/5-4.\ FT_SW_FirstFit/
+mkdir Experiment/5-1.\ OneQ_SW_FirstFit/LargeToSmall/
+mkdir Experiment/5-2.\ HT_SW_FirstFit/LargeToSmall/
+mkdir Experiment/5-3.\ ThreeQ_SW_FirstFit/LargeToSmall/
+mkdir Experiment/5-4.\ FT_SW_FirstFit/LargeToSmall/
